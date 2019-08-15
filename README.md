@@ -1,4 +1,4 @@
-# react-gvs
+# React GVS
 React boilerplate with Webpack and Babel
 
 ### Used:
