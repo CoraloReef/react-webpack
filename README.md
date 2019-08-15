@@ -1,11 +1,12 @@
 # react-gvs
 React boilerplate with Webpack and Babel
 
-### Used
+### Used:
 ```
 React
 Babel
 Webpack 4
 Webpack dev server
-tests - Jest
+Tests - Jest
+ESLint
 ```
